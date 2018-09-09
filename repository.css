@@ -1,0 +1,14 @@
+.pupphoto {
+    max-width: 80%;
+}
+
+html, body {
+    font-family: "Roboto Slab", Helvetica, sans-serif;
+}
+
+#container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 5px;
+ 
+}
